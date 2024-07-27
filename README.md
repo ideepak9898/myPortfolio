@@ -1,4 +1,4 @@
-# JS Portfolio Website
+# Portfolio Website
 
 <br />
 
