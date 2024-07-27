@@ -1,9 +1,5 @@
 # JS Portfolio Website
 
-[🔗Live Demo🔗](https://sajib.vercel.app/)
-
-![Protfolio Website](https://i.ibb.co/N7xKjdQ/Screenshot-17.png)
-
 <br />
 
 ## How to get started?
